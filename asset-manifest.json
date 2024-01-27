@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/example-onlinestore-min/static/css/main.41cd6b28.css",
+    "main.js": "/example-onlinestore-min/static/js/main.57d953f9.js",
+    "static/media/logo.svg": "/example-onlinestore-min/static/media/logo.a49c6b49aa4fb541f1f0a7aa423166a4.svg",
+    "index.html": "/example-onlinestore-min/index.html",
+    "main.41cd6b28.css.map": "/example-onlinestore-min/static/css/main.41cd6b28.css.map",
+    "main.57d953f9.js.map": "/example-onlinestore-min/static/js/main.57d953f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41cd6b28.css",
+    "static/js/main.57d953f9.js"
+  ]
+}
